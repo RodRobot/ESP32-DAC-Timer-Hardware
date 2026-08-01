@@ -30,4 +30,11 @@ Cada mensagem é acionada por um sensor touch TTP223.
 - Código comentado
 - Arduino IDE
 
+## Autor
+
+**RodRobot**
+
+🌐 https://rodrobot.blogspot.com/p/projetos.html
+
+🐙 GitHub: https://github.com/RodRobot
   
