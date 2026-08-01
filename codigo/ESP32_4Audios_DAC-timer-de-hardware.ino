@@ -1,7 +1,7 @@
 /*****************************************************************************************
  * Projeto : ESP32 - Player de Voz com 4 Mensagens com Timer de Hardware - ESP32
  * Autor   : RodRobot
- * Site    : www.rodrobot.com.br
+ * Site    : https://rodrobot.blogspot.com/p/projetos.html
  *
  * Descrição:
  * Este exemplo reproduz quatro áudios utilizando o DAC interno do ESP32.
@@ -16,10 +16,10 @@
  * - 4 Botões
  *
  * Ligações:
- * GPIO12 -> Botão 1
- * GPIO14 -> Botão 2
- * GPIO27 -> Botão 3
- * GPIO26 -> Botão 4
+ * GPIO18 -> Botão 1
+ * GPIO19 -> Botão 2
+ * GPIO21 -> Botão 3
+ * GPIO22 -> Botão 4
  * GPIO25 -> DAC
  *
  * Arquivo audios.h:
