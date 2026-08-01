@@ -34,7 +34,11 @@ Cada mensagem é acionada por um sensor touch TTP223.
 
 **RodRobot**
 
-🌐 https://rodrobot.blogspot.com/p/projetos.html
+📂 Código deste projeto
 
-🐙 GitHub: https://github.com/RodRobot
-  
+https://rodrobot.blogspot.com/2026/08/esp32-como-reproduzir-4-mensagens-de.html
+
+🐙 Todos os projetos do canal RodRobot
+
+https://rodrobot.blogspot.com/p/projetos.html
+
